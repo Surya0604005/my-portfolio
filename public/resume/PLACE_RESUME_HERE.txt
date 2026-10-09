@@ -1,0 +1,4 @@
+Place your PDF here and name it exactly:
+Surya_Teja_Katta_Resume.pdf
+
+The Hero RESUME button opens this PDF in a new tab.
